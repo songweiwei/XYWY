@@ -86,17 +86,3 @@ scrapy.cmdline.execute(['scrapy', 'crawl', 'wikiScrapy', '-o', 'wiki.csv', '-t',
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
